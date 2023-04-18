@@ -1,5 +1,5 @@
 # calculator
-calculator using Tkinter
+calculator using Tkinter.
 
 import everything from tkinter module
 globally declare the expression variable
